@@ -6,6 +6,4 @@ https://drive.google.com/file/d/1My9lXD6SbcG42huH48ZkQ3YvmMdcsdvs/view?usp=shari
 
 # Schema DB
 
-
-Попробуйте эту уценку:
 ![alt text](https://github.com/0xN1ck/parser/blob/main/schema.jpg)
